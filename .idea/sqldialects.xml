@@ -2,5 +2,11 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Queries/demo.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Queries/groupby.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Queries/like_agg.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Queries/select.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Queries/subquery_rownum.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Queries/where.sql" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="Oracle" />
   </component>
 </project>
